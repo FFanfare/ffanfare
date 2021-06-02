@@ -1,0 +1,56 @@
+<h1>Hover</h1>
+<div class="drawing">
+  <div class="drawing__overlay"></div>
+
+  <div>
+    <span class="drawing__mountain"></span>
+    <span class="drawing__mountain"></span>
+  </div>
+
+  <div>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+    <span class="drawing__star"></span>
+  </div>
+
+  <span class="drawing__shooter"></span>
+</div>
